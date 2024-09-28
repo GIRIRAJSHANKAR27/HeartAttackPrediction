@@ -19,9 +19,13 @@ The dataset consists of several medical features and a target variable indicatin
 
 ## Models Used
 -**Swarm Artificial Neural Network (Swarm-ANN)**: A neural network optimized using swarm intelligence.
+
 -**Logistic Regression**: A linear model for binary classification.
+
 -**Random Forest**: An ensemble model that combines multiple decision trees for classification.
+
 -**Support Vector Machine (SVM)**: A model that finds the optimal hyperplane for classification.
+
 
 ## Results
 The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The following are the accuracies of the models tested:
